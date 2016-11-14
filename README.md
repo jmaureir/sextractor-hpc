@@ -1,4 +1,4 @@
-Sextractor for HPC
+Sextractor for an HPC system demo
 (source extraction for HPC)
 
 Put all the images in the same directory and try first running e.g. 
